@@ -1,5 +1,7 @@
 The code for 2nd assignment can be found below with the attached screenshot You can view the code in src.
 
+![Screenshot (22)](https://user-images.githubusercontent.com/99648125/184529885-739820bd-5869-4a90-a400-c3fde866eacf.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
